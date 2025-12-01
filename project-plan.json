@@ -1,0 +1,109 @@
+{
+  "slug": "solana-escrow-program",
+  "title": "Solana Escrow Program",
+  "category": "blockchain",
+  "difficulty": "large",
+  "period": "2026-Q1",
+  "estimatedCommits": 15,
+  "description": "Escrow smart contract built with Anchor.",
+  "features": [
+    "Escrow initialization",
+    "Deposit flow",
+    "Release flow",
+    "Cancel flow",
+    "Program tests",
+    "Client examples"
+  ],
+  "commits": [
+    {
+      "number": 1,
+      "type": "chore",
+      "title": "initialize project structure",
+      "commitMessage": "chore: initialize project structure"
+    },
+    {
+      "number": 2,
+      "type": "feat",
+      "title": "add core domain model",
+      "commitMessage": "feat: add core domain model"
+    },
+    {
+      "number": 3,
+      "type": "feat",
+      "title": "configure persistence or state layer",
+      "commitMessage": "feat: configure persistence or state layer"
+    },
+    {
+      "number": 4,
+      "type": "feat",
+      "title": "implement main workflow",
+      "commitMessage": "feat: implement main workflow"
+    },
+    {
+      "number": 5,
+      "type": "feat",
+      "title": "add public interface",
+      "commitMessage": "feat: add public interface"
+    },
+    {
+      "number": 6,
+      "type": "test",
+      "title": "add automated coverage",
+      "commitMessage": "test: add automated coverage"
+    },
+    {
+      "number": 7,
+      "type": "docs",
+      "title": "add installation and usage documentation",
+      "commitMessage": "docs: add installation and usage documentation"
+    },
+    {
+      "number": 8,
+      "type": "ci",
+      "title": "add build and test workflow",
+      "commitMessage": "ci: add build and test workflow"
+    },
+    {
+      "number": 9,
+      "type": "feat",
+      "title": "add validation rules for release flow",
+      "commitMessage": "feat: add validation rules for release flow"
+    },
+    {
+      "number": 10,
+      "type": "feat",
+      "title": "add reporting view for cancel flow",
+      "commitMessage": "feat: add reporting view for cancel flow"
+    },
+    {
+      "number": 11,
+      "type": "feat",
+      "title": "add export or integration support for program tests",
+      "commitMessage": "feat: add export or integration support for program tests"
+    },
+    {
+      "number": 12,
+      "type": "refactor",
+      "title": "improve service boundaries for client examples",
+      "commitMessage": "refactor: improve service boundaries for client examples"
+    },
+    {
+      "number": 13,
+      "type": "fix",
+      "title": "handle edge cases for escrow initialization",
+      "commitMessage": "fix: handle edge cases for escrow initialization"
+    },
+    {
+      "number": 14,
+      "type": "perf",
+      "title": "improve query or request performance for deposit flow",
+      "commitMessage": "perf: improve query or request performance for deposit flow"
+    },
+    {
+      "number": 15,
+      "type": "test",
+      "title": "add integration tests for release flow",
+      "commitMessage": "test: add integration tests for release flow"
+    }
+  ]
+}
