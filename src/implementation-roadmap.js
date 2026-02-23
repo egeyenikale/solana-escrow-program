@@ -43,3 +43,8 @@ export const stage9 = {
   "date": "2026-02-09",
   "message": "feat: add validation rules for release flow"
 };
+
+export const stage10 = {
+  "date": "2026-02-23",
+  "message": "feat: add reporting view for cancel flow"
+};
