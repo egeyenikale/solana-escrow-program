@@ -40,3 +40,7 @@ feat: add validation rules for release flow
 
 feat: add reporting view for cancel flow
 
+## 2026-02-23 - Stage 11
+
+feat: add export or integration support for program tests
+
