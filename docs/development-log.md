@@ -44,3 +44,7 @@ feat: add reporting view for cancel flow
 
 feat: add export or integration support for program tests
 
+## 2026-03-02 - Stage 12
+
+refactor: improve service boundaries for client examples
+

@@ -53,3 +53,8 @@ export const stage11 = {
   "date": "2026-02-23",
   "message": "feat: add export or integration support for program tests"
 };
+
+export const stage12 = {
+  "date": "2026-03-02",
+  "message": "refactor: improve service boundaries for client examples"
+};
