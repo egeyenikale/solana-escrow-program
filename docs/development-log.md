@@ -52,3 +52,7 @@ refactor: improve service boundaries for client examples
 
 fix: handle edge cases for escrow initialization
 
+## 2026-03-09 - Stage 14
+
+perf: improve query or request performance for deposit flow
+
