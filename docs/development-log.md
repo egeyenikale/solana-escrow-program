@@ -56,3 +56,7 @@ fix: handle edge cases for escrow initialization
 
 perf: improve query or request performance for deposit flow
 
+## 2026-03-10 - Stage 15
+
+test: add integration tests for release flow
+

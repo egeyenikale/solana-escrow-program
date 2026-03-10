@@ -68,3 +68,8 @@ export const stage14 = {
   "date": "2026-03-09",
   "message": "perf: improve query or request performance for deposit flow"
 };
+
+export const stage15 = {
+  "date": "2026-03-10",
+  "message": "test: add integration tests for release flow"
+};
